@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.527d9a37.css",
+    "main.js": "/static/js/main.44934e59.js",
+    "static/media/Background.png": "/static/media/Background.5d95a4c4020c1c2ff6ed.png",
+    "static/media/error-404.png": "/static/media/error-404.237dbd48ba4430af245f.png",
+    "static/media/Telegram.png": "/static/media/Telegram.e2aee67fdc18b711cbb5.png",
+    "static/media/login-img.png": "/static/media/login-img.4fc1f874de759c1c8058.png",
+    "static/media/Ellipse 2.png": "/static/media/Ellipse 2.5ad4c2a44f3de7936da9.png",
+    "static/media/4.svg": "/static/media/4.3378d3ba352461171bcba0744a852e7c.svg",
+    "static/media/affiliate-icon.svg": "/static/media/affiliate-icon.f9c2aa2f72f5744bbb29c57c8a1238e2.svg",
+    "static/media/lamp-icon.svg": "/static/media/lamp-icon.7cf65e48bc447d9a253c3493193c25c8.svg",
+    "static/media/litecoin-icon.svg": "/static/media/litecoin-icon.bf998d6d68aa18c0dbadf135a10d827e.svg",
+    "static/media/bonus-icon.svg": "/static/media/bonus-icon.389b0014d83b15ea1318a83dfc6cc66f.svg",
+    "static/media/gift-icon.svg": "/static/media/gift-icon.924c1a2f46e4832d12f3844c6a7a8b9f.svg",
+    "static/media/discount-icon.svg": "/static/media/discount-icon.091947a2ea9add3469ad3ed077607da6.svg",
+    "static/media/3.svg": "/static/media/3.671fbc460f3fe9218ad229a233def009.svg",
+    "static/media/maining.svg": "/static/media/maining.873934d75ad33144b336b0ab3c9c65e8.svg",
+    "static/media/2.svg": "/static/media/2.012fac861a74b782ba5f79803a112230.svg",
+    "static/media/1.svg": "/static/media/1.7d4107281c9b1e89321e18aa3a47fb52.svg",
+    "static/media/withdraw-icon.svg": "/static/media/withdraw-icon.20b32dcbcd7f7361a73ecd18d5b45738.svg",
+    "static/media/chart-icon.svg": "/static/media/chart-icon.8e2bf5c020fd45c3256131f36197c5db.svg",
+    "index.html": "/index.html",
+    "main.527d9a37.css.map": "/static/css/main.527d9a37.css.map",
+    "main.44934e59.js.map": "/static/js/main.44934e59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.527d9a37.css",
+    "static/js/main.44934e59.js"
+  ]
+}
