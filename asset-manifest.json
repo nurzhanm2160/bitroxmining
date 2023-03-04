@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fba3f0a.css",
-    "main.js": "/static/js/main.632b8852.js",
+    "main.css": "/static/css/main.af07f2cb.css",
+    "main.js": "/static/js/main.a952646d.js",
     "static/media/Background.png": "/static/media/Background.5d95a4c4020c1c2ff6ed.png",
+    "static/media/bitcoin-btc-logo.png": "/static/media/bitcoin-btc-logo.82491fef997ab841639c.png",
     "static/media/error-404.png": "/static/media/error-404.237dbd48ba4430af245f.png",
     "static/media/Telegram.png": "/static/media/Telegram.e2aee67fdc18b711cbb5.png",
     "static/media/login-img.png": "/static/media/login-img.4fc1f874de759c1c8058.png",
@@ -22,11 +23,11 @@
     "static/media/withdraw-icon.svg": "/static/media/withdraw-icon.20b32dcbcd7f7361a73ecd18d5b45738.svg",
     "static/media/chart-icon.svg": "/static/media/chart-icon.8e2bf5c020fd45c3256131f36197c5db.svg",
     "index.html": "/index.html",
-    "main.7fba3f0a.css.map": "/static/css/main.7fba3f0a.css.map",
-    "main.632b8852.js.map": "/static/js/main.632b8852.js.map"
+    "main.af07f2cb.css.map": "/static/css/main.af07f2cb.css.map",
+    "main.a952646d.js.map": "/static/js/main.a952646d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fba3f0a.css",
-    "static/js/main.632b8852.js"
+    "static/css/main.af07f2cb.css",
+    "static/js/main.a952646d.js"
   ]
 }
